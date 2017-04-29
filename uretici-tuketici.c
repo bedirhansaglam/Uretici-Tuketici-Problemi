@@ -290,3 +290,4 @@ void *tuketici_thread8()
 		sleep(1);
 	}	
 }
+/*Bedirhan Saglam - bedirhansaglam.com*/
